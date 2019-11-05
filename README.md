@@ -12,8 +12,8 @@ The HPC tests were conducted on the compute nodes of the VSC
 https://www.vscentrum.be/
 
 The node specs are as follows:
-2 Xeon Gold 6140 CPUs@2.3 GHz (Skylake), 18 cores each
-192 GB RAM
-200 GB SSD local disk
+2 Xeon Gold 6140 CPUs@2.3 GHz (Skylake), 18 cores each,
+192 GB RAM,
+200 GB SSD local disk,
 Connection using an Infiniband EDR network (bandwidth 25 Gbit/s)
 
