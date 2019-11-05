@@ -1,0 +1,244 @@
+time: 3600
+nodes: 6
+procs: 216
+account string: lp_fwo_acousticproject
+queue: q1h
+========================================================================
+
+real	2m50.243s
+user	2m47.188s
+sys	0m2.311s
+========================================================================
+Epilogue args:
+Date: Mon Sep 23 14:36:21 CEST 2019
+Allocated nodes:
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n05
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n08
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+Job ID: 50111764.tier2-p-moab-2.tier2.hpc.kuleuven.be
+User ID: vsc31530
+Group ID: vsc31530
+Job Name: job6_23_09
+Session ID: 24568
+Resource List: walltime=01:00:00,nodes=6:ppn=36,neednodes=6:ppn=36,pmem=5gb
+Resources Used: cput=00:16:55,vmem=5134996kb,walltime=00:02:53,mem=1709764kb,energy_used=0
+Queue Name: q1h
+Account String: lp_fwo_acousticproject
+-------------------------------------------------------------------------
+time: 173
+nodes: 6
+procs: 216
+account: lp_fwo_acousticproject

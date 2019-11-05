@@ -1,0 +1,13 @@
+[r23i13n08:21667] MCW rank 3 bound to socket 0[core 0[hwt 0]]: [B/././././././././././././././././.][./././././././././././././././././.]
+Cartesian topology: 3 2 2 
+My rank is 3
+My coords are: 0 1 1 
+Physical nodes: 120 120 120 
+Time spent before beginning time loop = 0.154095
+Time spent in the time loop = 21.7596
+Nodes including halo: 122 122 122 
+Offset: 0 120 120 
+Buffer size = 14400
+inbuffer min = 0.0620729, max = 0.889509
+outbuffer min = 0.00238107, max = 0.885785
+neighbours: -2 7 1 -2 2 -2 

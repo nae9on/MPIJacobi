@@ -1,0 +1,64 @@
+time: 3600
+nodes: 1
+procs: 36
+account string: lp_fwo_acousticproject
+queue: q1h
+========================================================================
+
+real	0m20.583s
+user	0m20.282s
+sys	0m0.158s
+========================================================================
+Epilogue args:
+Date: Sat Sep 21 03:33:56 CEST 2019
+Allocated nodes:
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+r23i27n12
+Job ID: 50111204.tier2-p-moab-2.tier2.hpc.kuleuven.be
+User ID: vsc31530
+Group ID: vsc31530
+Job Name: job1_20_09
+Session ID: 36461
+Resource List: walltime=01:00:00,nodes=1:ppn=36,neednodes=1:ppn=36,pmem=5gb
+Resources Used: cput=00:00:21,vmem=841752kb,walltime=00:00:24,mem=89460kb,energy_used=0
+Queue Name: q1h
+Account String: lp_fwo_acousticproject
+-------------------------------------------------------------------------
+time: 24
+nodes: 1
+procs: 36
+account: lp_fwo_acousticproject

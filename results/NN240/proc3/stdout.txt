@@ -1,0 +1,136 @@
+time: 3600
+nodes: 3
+procs: 108
+account string: lp_fwo_acousticproject
+queue: q1h
+========================================================================
+
+real	2m48.553s
+user	2m45.548s
+sys	0m2.271s
+========================================================================
+Epilogue args:
+Date: Mon Sep 23 14:32:21 CEST 2019
+Allocated nodes:
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n04
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i13n18
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+r23i27n01
+Job ID: 50111762.tier2-p-moab-2.tier2.hpc.kuleuven.be
+User ID: vsc31530
+Group ID: vsc31530
+Job Name: job3_23_09
+Session ID: 22938
+Resource List: walltime=01:00:00,nodes=3:ppn=36,neednodes=3:ppn=36,pmem=5gb
+Resources Used: cput=00:08:22,vmem=2740512kb,walltime=00:02:51,mem=855080kb,energy_used=0
+Queue Name: q1h
+Account String: lp_fwo_acousticproject
+-------------------------------------------------------------------------
+time: 171
+nodes: 3
+procs: 108
+account: lp_fwo_acousticproject
